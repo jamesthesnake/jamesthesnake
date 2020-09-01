@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hello, nerds
+I code on occasion, believe it or not. My latest deal is I'm making as many useless Julia programs as humanly possible. I also have some non-coding things that I update on occasion, for example my kungfu skills
+
+I love jokes and musicals. Also candy. I work at Auris Health, follow me on twitter @jamesthesnake. 
