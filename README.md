@@ -21,5 +21,5 @@ I code on occasion, believe it or not. My latest deal is I'm making as many usel
 
 I love jokes. Also Popcorn. I work at Atomwise, follow me on twitter @jamesthesnake. 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesthesnake)](https://github.com/anuraghazra/github-readme-stats)
 
