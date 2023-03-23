@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I code on occasion, believe it or not. My latest deal is I'm making as many useless Julia programs as humanly possible. I also have some non-coding things that I update on occasion, for example my kungfu skills
 
-I love jokes. Also Popcorn. I work at Atomwise, follow me on twitter @jamesthesnake. 
+I love jokes. Also Popcorn. I work at Atomwise, follow me on twitter @jamesthesnake. Love making art!
 # Github Stats
 
 [![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamesthesnake)](https://github.com/anuraghazra/github-readme-stats)
