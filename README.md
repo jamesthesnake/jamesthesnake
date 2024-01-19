@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he hims his
 - ⚡ Fun fact: I'm cool
 -->
-
+![](https://komarev.com/ghpvc/?username=jamesthesnake&color=blueviolet)
 
 
 I code on occasion, believe it or not. My latest deal is I'm making as many useless Julia programs as humanly possible. I also have some non-coding things that I update on occasion, for example my kungfu skills
